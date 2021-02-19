@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dong_Sapanta</string>
+    <string name="student_names">Eric Dong &amp; Francis Sapanta Set D</string>
+    <string name="player_details_name_label">Name:\u0020 </string>
+    <string name="player_details_team_name_label">Team:\u0020 </string>
+    <string name="player_details_age_label">Age:\u0020 </string>
+    <string name="player_details_nationality_label">Name:\u0020 </string>
+    <string name="player_details_position_label">Name:\u0020 </string>
+</resources>
